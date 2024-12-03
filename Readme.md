@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate for `Frontend Projects`
 
 - 🤔 I’m looking for help with `DSA`
-- 📫 How to reach me <a href="mailto:syedshahul737@gmail.com">**syedshahul737@gmail@gmail**</a>
+- 📫 How to reach me <a href="mailto:syedshahul737@gmail.com">**syedshahul737@gmail**</a>
 - 👨‍💻 Life Hack: Write clean code while vibing to your favorite tunes
 - ⚡ Fun fact: I spend most of my time playing video games
 
