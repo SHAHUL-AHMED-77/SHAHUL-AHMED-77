@@ -16,7 +16,7 @@
 
 <img  src="./hero.gif" height="290px" align="right" style="background: none"/>
 
-- 🙋‍♂️ All about me is at **[My Portfolio"](https://soumyajit.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Portfolio"](https://shahul.vercel.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
