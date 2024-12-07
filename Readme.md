@@ -24,9 +24,8 @@
 - 🔭 Currently working on **Something Exciting**.
 - 🌱 Learning **Data Structures and Algorithms (DSA)**.
 - 👯 Open for collaborations on **Frontend Projects**.
-- 🤔 Seeking guidance in **DSA Optimization Techniques**.
 - 📫 Reach me via email: **[syedshahul737@gmail.com](mailto:syedshahul737@gmail.com)**.
-- ⚡ Fun Fact: **I love gaming 🎮 during my free time!**
+- ⚡ Fun Fact: **I spend most of my free time gaming 🎮**
 
 ---
 
