@@ -44,10 +44,9 @@
 </p>
 
 ---
+<h2 align="center"><img src="Laptop.gif" width="45"> GitHub Stats </h2>
+<div align="center" width="50%">
 
-<p align="center" style="font-size: 2em; font-weight: bold; margin-bottom: 20px;">
-  <img src="Laptop.gif" width="40" style="margin-right: 10px;"/>GitHub Stats
-</p>
 
 
 <p align="center">
